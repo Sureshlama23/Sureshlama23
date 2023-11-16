@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sureshlama23
+- 👋 Hi, I’m @Sureshlama
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
