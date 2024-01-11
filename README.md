@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an eCommerce project<br>👯 I’m looking to collaborate on an eCommerce project<br>🤝 I’m looking for help with Django restframework mastering<br>🌱 I’m currently learning Django project<br>💬 Ask me about Backend Developer<br>⚡ Fun fact <br>
+🔭 I’m currently working on an eCommerce project<br>👯 I’m looking to collaborate on an eCommerce project<br>🤝 I’m looking for help with Django rest_framework mastering<br>🌱 I’m currently learning Django project<br>💬 Ask me about Backend Developer<br>⚡ Fun fact <br>
 
 
 ## 🌐 Socials:
